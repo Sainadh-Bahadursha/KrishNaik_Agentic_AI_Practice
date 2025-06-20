@@ -10,6 +10,8 @@ defusedxml
 langchain-google-genai
 langchain-huggingface
 langchain-ollama
+langchain-experimental
+langchain-astradb
 ollama
 chromadb
 sentence-transformers
@@ -20,3 +22,11 @@ pymupdf
 wikipedia
 faiss-cpu
 scikit-learn
+pymilvus
+langgraph
+duckduckgo-search
+youtube-search
+youtube-search-python
+google-auth-oauthlib
+google-api-python-client
+google-auth-httplib2
